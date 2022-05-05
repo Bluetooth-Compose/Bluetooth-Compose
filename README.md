@@ -34,3 +34,15 @@ We've registered the following domains, and engaged a graphic artist to create t
 - bluetooth-compose.co.uk
 
 We're just getting started but you can email us at super.admin@bluetooth-compose.com if you are at all enthusistic about this!
+
+### Our Initial Aim
+
+Our initial aim is to create an alpha bluetooth-compose.yml specification as a candidate for community discussion, to move onwards towards beta.
+
+Naturally, the specification will be all about how to generate the yml files however as an interoperability proof we will wish to demonstrate their consumption in the following frameworks, hence will create demo bluetooth-compose engines for the following frameworks:
+
+- Xamarin / .Net Maui
+- Kotlin Multi Platform
+- Swift
+
+The focus, however, will be the specification itself, and we would be delighted that as the specification matures, that third parties will create their own bluetooth-compose engines on any platform that they desire.

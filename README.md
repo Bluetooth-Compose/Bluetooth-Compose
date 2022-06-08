@@ -30,11 +30,11 @@ We can!
 
 When the Bluetooth name and logo were coined, over two decades ago, it was important to choose a name and logo that acted as a metaphor about how the new technology worked. 'Bluetooth', of course, was an ancient Norse king who united the surrounding tribes to work as a coordinated whole. And the logo is actually the ancient runic 'b' and 't' superimposed into a singularity. We take the logo for granted now, because we understand how it represents the technology.
 
-However *now*, over two decades later, we need to extend the metaphor - how do we explain Bluetooth in a new context where a standardised 'bluetooth-compose' yaml will effectively be a new language that is a bridge between ble centrals and ble peripherals, but maintaining 'quintessential bluetooth' in the middle?
+However *now*, over two decades later, we need to extend the metaphor - how do we explain Bluetooth in a new context where a standardised 'bluetooth-compose' yaml will effectively be a new language that is a bridge between ble centrals and ble peripherals, but maintaining the evolving yet 'quintessential bluetooth' protocol in the middle?
 
 We've gone back to the Norse god, Odin, who had a raven on each shoulder!
 
-Two ravens who talk to each other with that old Norse king, 'Bluetooth', in the middle between them!
+- Two ravens who talk to the king betwixt - that old Norse king, 'Bluetooth', with a raven upon one shoulder, and a raven upon the other shoulder, with communication between them perfectly composed!
 
 ## It's all about communication!
 

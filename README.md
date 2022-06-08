@@ -36,7 +36,7 @@ We've gone back to the Norse god, Odin, who had a raven on each shoulder!
 
 - Two ravens who talk to the king betwixt - that old Norse king, 'Bluetooth', with a raven upon one shoulder, and a raven upon the other shoulder, with communication between them perfectly composed!
 
-*Bluetooth-Compose*.
+*Bluetooth-Compose!*
 
 ## It's all about communication!
 

@@ -24,11 +24,11 @@ We are a group of bluetooth-nutters who want to use yaml to not just automate th
 
 ### And for example, can you imagine:
 
-- feeding an app with a bluetooth-compose.yml file and have it automatically connect to a device - with or without user-permissions, as required - to also auto-generate the associated UI - and then to forward those readings to another app, or to the cloud?
+- feeding a mobile app with a bluetooth-compose.yml file and have it automatically connect to a bluetooth device - with or without user-permissions, as required - to also auto-generate the associated UI - and then to forward those readings to another app, or to the cloud?
 
 ### Or what about:
 
-- feeding an IoT device with a bluetooth-compose.yml file and have it auto-configure it's advertisements, services, characteristics, and descriptors, so that the above-such-app can connect to it!
+- feeding a bluetooth peripheral IoT device with a bluetooth-compose.yml file and have it auto-configure it's advertisements, services, characteristics, and descriptors, so that a bluetooth central mobile app, or another bluetooth device, can connect to it!
 
 *We can!*
 

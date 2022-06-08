@@ -26,7 +26,7 @@ And for example, can you imagine feeding an Apple Watch or Android watch with a 
 
 We can!
 
-*So let's explain the Bluetooth-Compose logo.*
+## Let's explain the Bluetooth-Compose logo!
 
 When the Bluetooth name and logo were coined, over two decades ago, it was important to choose a name and logo that acted as a metaphor about how the new technology worked. 'Bluetooth', of course, was an ancient Norse king who united the surrounding tribes to work as a coordinated whole. And the logo is actually the ancient runic 'b' and 't' superimposed into a singularity. We take the logo for granted now, because we understand how it represents the technology.
 
@@ -36,7 +36,9 @@ We've gone back to the Norse god, Odin, who had a raven on each shoulder!
 
 Two ravens who talk to each other with that old Norse king, 'Bluetooth', in the middle between them!
 
-We've registered the following domains, and engaged a graphic artist to create the logo:
+## It's all about communication!
+
+So we've registered the following domains, and engaged a graphic artist to create the logo:
 
 - bluetooth-compose.com
 - bluetooth-compose.net

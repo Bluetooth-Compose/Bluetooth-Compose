@@ -36,7 +36,7 @@ As these are the two ravens in the bluetooth-compose logo, bluetooth-compose as 
 
 This is the new era of Bluetooth-Compose-On-Demand (BCOD) where an app or device can dynamically consume bluetooth-compose.yml files for dynamic bluetooth engagement where even IoT devices can dynamically adjust to the changing environment around them.
 
-*And if that's not powerful enough to consider, just imagine bluetooth-compose.yml files being passed around as bluetooth extended advertisements! Bluetooth mists become droplets, droplets become rain, rain falls upon the bluetopth escarpment and turns into rivers, which flood the oceans - with ravens flying across the waters of the deep until the dove-of-peace is released: statisfied users!*
+*And if that's not powerful enough to consider, just imagine bluetooth-compose.yml files being passed around as bluetooth extended advertisements! Bluetooth mists become droplets, droplets become rain, rain falls upon the bluetopth escarpment and turns into rivers, which flood the oceans - with ravens flying across the waters of the deep until the dove-of-peace is released: dynamic customer satisfaction!*
 
 ## So let's explain the Bluetooth-Compose logo!
 

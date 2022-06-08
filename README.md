@@ -34,6 +34,10 @@ We are a group of bluetooth-nutters who want to use yaml to not just automate th
 
 As these are the two ravens in the bluetooth-compose logo, bluetooth-compose as a common language, with one such bluetooth-compose.yml file being the voice of the ble central raven, and the other such bluetooth-compose.yml file being the voice of the ble peripheral raven ~ both speaking to the bluetooth king!
 
+This is the new era of Bluetooth-Compose-On-Demand (BCOD) where an app or device can dynamically consume bluetooth-compose.yml files for dynamic bluetooth engagement where even IoT devices can dynamically adjust to the changing environment around them.
+
+*And if that's not powerful enough to consider, just imagine bluetooth-compose.yml files being passed around as bluetooth extended advertisements! Bluetooth mists become droplets, droplets become rain, rain falls upon the bluetopth escarpment and turns into rivers, which flood the oceans - with ravens flying across the waters of the deep until the dove-of-peace is released: statisfied users!*
+
 ## So let's explain the Bluetooth-Compose logo!
 
 When the Bluetooth name and logo were coined, over two decades ago, it was important to choose a name and logo that acted as a metaphor about how the new technology worked. 'Bluetooth', of course, was an ancient Norse king who united the surrounding tribes to work as a coordinated whole. And the logo is actually the ancient runic 'b' and 't' superimposed into a singularity. We take the logo for granted now, because we understand how it represents the technology.

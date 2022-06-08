@@ -22,11 +22,19 @@ logging:
 
 We are a group of bluetooth-nutters who want to use yaml to not just automate the reading of bluetooth devices, but also to simulate devices to make integration testing easier.
 
-And for example, can you imagine feeding an Apple Watch or Android watch with a bluetooth-compose.yml file and have it act as a Personal Bluetooth Hub to monitor a user's personal local bluetooth devices, and forward those readings to an app or cloud?
+### And for example, can you imagine:
 
-We can!
+- feeding an app with a bluetooth-compose.yml file and have it automatically connect to a device - with or without user-permissions, as required - to also auto-generate the associated UI - and then to forward those readings to another app, or to the cloud?
 
-## Let's explain the Bluetooth-Compose logo!
+### Or what about:
+
+- feeding an IoT device with a bluetooth-compose.yml file and have it auto-configure it's advertisements, services, characteristics, and descriptors, so that the above-such-app can connect to it!
+
+*We can!*
+
+As these are the two ravens in the bluetooth-compose logo, bluetooth-compose as a common language, with one such bluetooth-compose.yml file being the voice of the ble central raven, and the other such bluetooth-compose.yml file being the voice of the ble peripheral raven ~ both speaking to the bluetooth king!
+
+## So let's explain the Bluetooth-Compose logo!
 
 When the Bluetooth name and logo were coined, over two decades ago, it was important to choose a name and logo that acted as a metaphor about how the new technology worked. 'Bluetooth', of course, was an ancient Norse king who united the surrounding tribes to work as a coordinated whole. And the logo is actually the ancient runic 'b' and 't' superimposed into a singularity. We take the logo for granted now, because we understand how it represents the technology.
 

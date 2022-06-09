@@ -119,3 +119,9 @@ The current status of the specifications can be determined by the status of the 
 Naturally, once we get to this stage, users will be able to create AR ML files for any Bluetooth device on the market, enabling them to be intelligently object detected in the Bluetooth Compose AR Module, using such Machine Learning profiles as developers will create, and at this point we would hope that the project would begin to go viral as developers start to create AR ML files in anticipation of the Bluetooth-Compose specification being extended further to allow the devices to not just be identified in the local AR-space, but then read, and written to.
 
 We recently [asked](https://www.youtube.com/watch?v=kzNXPFguYik&t=2701s) what IoT 2.0 will look like, and although we have some [idea](https://github.com/HarrisonOfTheNorth/Elspic-IoT-the-next-generation) of what this might look like, we surmise that this project will make a significant contribution!
+
+### Further Reading
+
+Given that Bluetooth-Compose in the context of Augmented Reality can be very easily seen to be 'Electronically Conspicuous' in the very real sense of the expression, you may be interested in looking at our thoughts [here](https://github.com/HarrisonOfTheNorth/Elspic-IoT-the-next-generation) that consider how ```IoT```, via the abstraction of *Electronic Conspicuity*, might transform ```IoT``` into becoming ```EoT```. 
+
+- In that article, we propose that Electronic Conspicuity is IoT's wonderwall, and that Electronic Conspicuity will transform IoT into the next evolution of itself, EoT. 

@@ -107,7 +107,7 @@ The current status of the specifications can be determined by the status of the 
 - The creation of a second 3D Printed Bluetooth Device Container, with instructions on how to create further device ML files, allowing community developers to both create them, and upload them to a common BCAR ML file repo.
 - The extension of the bluetooth-compose.yml specification to allow demo Meadowboard and/or nRF bluetooth devices to be placed in respective 3D Printed Bluetooth Device Containers, which when identified in AR-space by the BCAR App, will cause the bluetooth device's advertised name to be displayed withing the BCAR App's visual AR-space, adjacent the identified device.
 - The extension of the bluetooth-compose.yml specification to allow a user tapping on such a Bluetooth Device that has been so identified in AR-space, to connect to the device and read it's service GUIDs and display them in a Console.
-- The creation of a community event to allow the bluetooth-compose specification, as developed so far, to be demonstrated, discussed in a retrospective context, and a wide-range of use cases gathered from the ommunity to steer the project forward.
+- The creation of a community event to allow the bluetooth-compose specification, as developed so far, to be demonstrated, discussed in a retrospective context, and a wide-range of use cases gathered from the community to steer the project forward.
 - The creation of new milestones, based upon feedback from the community event.
 
 

@@ -98,7 +98,7 @@ The focus, however, will be the specification itself, and we would be delighted 
 
 MVP Milestones:
 
-- Unity AR 'hello-world' module in a Kotlin Multiplatform hello-world world application from here called the Bluetooth-Compose AR App ('BCAR app') capable of deploying to iOS and Android devices
+- **(Currently undertaking)** Unity AR 'hello-world' module in a Kotlin Multiplatform hello-world world application from here called the Bluetooth-Compose AR App ('BCAR app') capable of deploying to iOS and Android devices
 - The creation of a 3D Printed bluetooth device container that will be ultimately used by AR-space object detection to identify a bluetooth-compose.yml specified object using Machine Learning object detection.
 - The built-in capability of the BCAR app to identify the 3D Printed Bluetooth Device Container
 - The creation of a bluetooth-compose.yml specification that the BCAR App loads and consumes under user-selection, which identifies a web-based ML file that the AR module seeks, consumes, then uses, to identify that particular 3D Printed Bluetooth Device Container

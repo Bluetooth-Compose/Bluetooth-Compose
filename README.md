@@ -96,6 +96,8 @@ To make this project exciting, but also giving it the opportunity to go viral, t
 
 The focus, however, will be the specification itself, and we would be delighted that as the specification matures, that third parties will create their own bluetooth-compose engines, as well as Augmented Reality applications, on any platform that they desire.
 
+The current status of the specifications can be determined by the status of the progression of the following milestones.
+
 ### MVP Milestones:
 
 - **(Currently undertaking)** Unity AR 'hello-world' module in a Kotlin Multiplatform hello-world world application from here called the Bluetooth-Compose AR App ('BCAR app') capable of deploying to iOS and Android devices

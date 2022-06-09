@@ -65,6 +65,16 @@ We're just getting started but you can email us at super.admin@bluetooth-compose
 
 Our initial aim is to create an alpha bluetooth-compose.yml specification as a candidate for community discussion, to move onwards towards beta.
 
+Andthere's a lot to discuss, not least of which is maintaining a separation of concerns between automatically generated UI and the underlying automatically generated advertisements, peripherals, services, characteristics, and descriptors - not to forget the complexity of how to connect to such devices, engage with user-permissions, etc.
+
+And a full-blown discussion must also include the adjacent but not unconnected topic of Augmented Reality, where not only are devices pictorially identified in the visual AR-space - with or without visual information that a user can read in a 'Bluetooth-Up' context similar to fighter-jet head-up displays - but also incorporating the capacity of Bluetooth Device Object Detection that allows a user to visually scan a device, which once recognised, will cause the app to autoconfigure to take a reading.
+
+The new space we are in is imaging an environment that has plenty of bluetooth devices in it, each which are electronically conspicuous to an Augmented Reality application, and dependant upon user-engagement with the device in that AR-space, the dynamic auto-configuring of channels between the AR app and BCOD device so that they can be read, or written to, on demand.
+
+*Bluetooth-Compose-On-Demand.*
+
+#### But first-things-first
+
 Naturally, the specification will be all about how to generate the yml files however as an interoperability proof we will wish to demonstrate their consumption in the following frameworks, hence will create demo bluetooth-compose engines for the following frameworks:
 
 - Xamarin / .Net Maui
@@ -76,4 +86,26 @@ And for simulating devices for Integration Testing, we are focussing on two devi
 -    C# Meadow F7v2 boards, using the Meadow API at http://developer.wildernesslabs.co/Meadow/Meadow.OS/Bluetooth/
 -    C++ Nordic's nRF52 series at https://www.nordicsemi.com/Products/Bluetooth-Low-Energy/Development-hardware
 
-The focus, however, will be the specification itself, and we would be delighted that as the specification matures, that third parties will create their own bluetooth-compose engines on any platform that they desire.
+To consume these peripherals we will simultaneously create an Augmented Reality app (initially, just in Kotlin Multiplatform, using Unity AR, but with the Unity library exportable to Xamarin, .Net Maui, and Swift).
+
+The Bluetooth AR app and it's associated architecture (that is, it's underlying Unity AR module/s that will be capable of being exported to any suitable platform), will also need to be capable of importing relevant ML (machine learning profiles) so that specific devices can be detected in the user's local AR space.
+
+To make this project exciting, but also giving it the opportunity to go viral, this project will be Augmented-Reality led, and that means that our incremental advances in the bluetooth-compose.yml specification must be capable of being demonstrated in our Bluetooth Compose Augmented Reality app.
+
+The focus, however, will be the specification itself, and we would be delighted that as the specification matures, that third parties will create their own bluetooth-compose engines, as well as Augmented Reality applications, on any platform that they desire.
+
+## Current Status
+
+MVP Milestones:
+
+- Unity AR 'hello-world' module in a Kotlin Multiplatform hello-world world application from here called the Bluetooth-Compose AR App ('BCAR app') capable of deploying to iOS and Android devices
+- The creation of a 3D Printed bluetooth device container that will be ultimately used by AR-space object detection to identify a bluetooth-compose.yml specified object using Machine Learning object detection.
+- The built-in capability of the BCAR app to identify the 3D Printed Bluetooth Device Container
+- The creation of a bluetooth-compose.yml specification that the BCAR App loads and consumes under user-selection, which identifies a web-based ML file that the AR module seeks, consumes, then uses, to identify that particular 3D Printed Bluetooth Device Container
+- The creation of a second 3D Printed Bluetooth Device Container, with instructions on how to create further device ML files, allowing community developers to both create them, and upload them to a common BCAR ML file repo.
+- The extension of the bluetooth-compose.yml specification to allow demo Meadowboard and/or nRF bluetooth devices to be placed in respective 3D Printed Bluetooth Device Containers, which when identified in AR-space by the BCAR App, will cause the bluetooth device's advertised name to be displayed adjacent the identified device.
+- The extension of the bluetooth-compose.yml specification to allow a user tapping on such a Bluetooth Device that has been so identified in AR-space, to connect to the device and read it's service GUIDs and display them in a Console.
+- The creation of a community event to allow the bluetooth-compose specification, as developed so far, to be demonstrated, discussed in a retrospective context, and a wide-range of use cases gathered from the ommunity to steer the project forward.
+- The creation of new milestones, based upon feedback from the community event.
+
+

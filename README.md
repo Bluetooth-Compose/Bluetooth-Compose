@@ -86,7 +86,9 @@ And for simulating devices for Integration Testing, we are focussing on two devi
 -    C# Meadow F7v2 boards, using the Meadow API at http://developer.wildernesslabs.co/Meadow/Meadow.OS/Bluetooth/
 -    C++ Nordic's nRF52 series at https://www.nordicsemi.com/Products/Bluetooth-Low-Energy/Development-hardware
 
-To consume these peripherals we will simultaneously create an Augmented Reality app (initially, just in Kotlin Multiplatform, using Unity AR, but with the Unity library exportable to Xamarin, .Net Maui, and Swift).
+## Current Status
+
+To consume these peripherals (the C# Meadow F7v2 boards and C++ Nordic's nRF52 series devices)  we will simultaneously create an Augmented Reality app (initially, just in Kotlin Multiplatform, using Unity AR, but with the Unity library exportable to Xamarin, .Net Maui, and Swift).
 
 The Bluetooth AR app and it's associated architecture (that is, it's underlying Unity AR module/s that will be capable of being exported to any suitable platform), will also need to be capable of importing relevant ML (machine learning profiles) so that specific devices can be detected in the user's local AR space.
 
@@ -94,9 +96,7 @@ To make this project exciting, but also giving it the opportunity to go viral, t
 
 The focus, however, will be the specification itself, and we would be delighted that as the specification matures, that third parties will create their own bluetooth-compose engines, as well as Augmented Reality applications, on any platform that they desire.
 
-## Current Status
-
-MVP Milestones:
+### MVP Milestones:
 
 - **(Currently undertaking)** Unity AR 'hello-world' module in a Kotlin Multiplatform hello-world world application from here called the Bluetooth-Compose AR App ('BCAR app') capable of deploying to iOS and Android devices
 - The creation of a 3D Printed bluetooth device container that will be ultimately used by AR-space object detection to identify a bluetooth-compose.yml specified object using Machine Learning object detection.

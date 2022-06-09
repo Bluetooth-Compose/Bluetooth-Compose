@@ -36,7 +36,7 @@ As these are the two ravens in the bluetooth-compose logo, bluetooth-compose as 
 
 This is the new era of Bluetooth-Compose-On-Demand (BCOD) where an app or device can dynamically consume bluetooth-compose.yml files for dynamic bluetooth engagement where even IoT devices can dynamically adjust to the changing environment around them.
 
-*And if that's not powerful enough to consider, just imagine bluetooth-compose.yml files being passed around as bluetooth extended advertisements! Bluetooth 'mists' of bluetooth-compose.yml files in the bluetooth advertisements atmosphere consolidating to become droplets, droplets consolidating to become bluetooth rain, bluetooth rain falling upon the bluetopth escarpment and turning from streamlets into brooks into rivers, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: dynamic customer satisfaction!*
+*And if that's not powerful enough to consider, just imagine bluetooth-compose.yml files being passed around as bluetooth extended advertisements! Bluetooth 'mists' of bluetooth-compose.yml files in the bluetooth advertisements atmosphere consolidating to become droplets, droplets consolidating to become bluetooth rain, bluetooth rain falling upon the bluetooth escarpment and turning from streamlets into brooks into rivers, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: dynamic customer satisfaction!*
 
 ## So let's explain the Bluetooth-Compose logo!
 
@@ -69,7 +69,7 @@ Andthere's a lot to discuss, not least of which is maintaining a separation of c
 
 And a full-blown discussion must also include the adjacent but not unconnected topic of Augmented Reality, where not only are devices pictorially identified in the visual AR-space - with or without visual information that a user can read in a 'Bluetooth-Up' context similar to fighter-jet head-up displays - but also incorporating the capacity of Bluetooth Device Object Detection that allows a user to visually scan a device, which once recognised, will cause the app to autoconfigure to take a reading.
 
-The new space we are in is imaging an environment that has plenty of bluetooth devices in it, each which are electronically conspicuous to an Augmented Reality application, and dependant upon user-engagement with the device in that AR-space, the dynamic auto-configuring of channels between the AR app and BCOD device so that they can be read, or written to, on demand.
+The new space we are in is imagining an environment that has plenty of bluetooth devices in it, each which are electronically conspicuous to an Augmented Reality application, and dependant upon user-engagement with the device in that AR-space, the dynamic auto-configuring of channels between the AR app and BCOD device so that they can be read, or written to, on demand.
 
 *Bluetooth-Compose-On-Demand.*
 

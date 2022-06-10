@@ -42,6 +42,23 @@ This is the new era of ```Bluetooth-Compose-On-Demand (BCOD)``` where an app or 
 
 The following terms are used in this document and the reason for so many acronyms is that (in lower-case) they will be useful abbreviations that can become part of the actual bluetooth-compose.yml file syntax.
 
+### Aide Memoire 
+
+In general, letters sub-parts in acronyms **might** mean one of the following:
+
+- A, App
+- M, Module,
+- F, file
+- U, Unity or Unreal (graphic engines)
+- AR, Augmented Reality
+- BC, Bluetooth-Compose
+- OD, On-Demand, or Object Detection
+- ML, Machine Learning
+- VR, Virtual Reality
+- HUD, Head-Up Display
+
+### Terminology
+
 - .NET Maui
 - AR App, ARA
 - AR Module, ARM

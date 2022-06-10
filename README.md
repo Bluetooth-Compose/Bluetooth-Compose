@@ -46,6 +46,7 @@ The following terms are used in this document.
 
 - .NET Maui
 - AR App
+- AR Module, ARM
 - Augmented Reality, AR
 - Augmented-Reality-Head-Up Display, ARHUD: a general Head-Up Display (HUD) in the Visual AR Space
 - BCAR ML File
@@ -75,7 +76,7 @@ The following terms are used in this document.
 - Repository ('repo')
 - Swift
 - Unity
-- Unity AR Module
+- Unity AR Module, UARM
 - Virtual Reality, VR
 - Virtual-Reality-Head-Up Display, VRHUD: a general Head-Up Display (HUD) in the Visual VR Space
 - Visual AR Space

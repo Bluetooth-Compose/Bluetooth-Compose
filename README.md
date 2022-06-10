@@ -38,6 +38,42 @@ This is the new era of ```Bluetooth-Compose-On-Demand (BCOD)``` where an app or 
 
 *And if that's not powerful enough to consider, just imagine ```bluetooth-compose.yml``` files being passed around as ```bluetooth extended advertisements```! Bluetooth 'mists' of bluetooth-compose.yml files in the bluetooth advertisements atmosphere consolidating to become bluetooth droplets, bluetooth droplets consolidating to become bluetooth rain, bluetooth rain falling upon the bluetooth escarpment and turning from streamlets of bluetooth into brooks of bluetooth into rivers of bluetooth, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: dynamic customer satisfaction!*
 
+## Introduction to Terminology
+
+The following terms are used in this document:
+
+- .NET Maui
+- AR App
+- Augmented Reality, AR
+- BCAR ML File
+- Bluetooth Compose Augmented Reality
+- Bluetooth Compose Augmented Reality App, BCAR App
+- Bluetooth-Compose AR Module
+- Bluetooth-Compose Specification
+- Bluetooth-Compose-On-Demand, BCOD
+- Bluetooth-Compose, BC
+- bluetooth-compose.yml
+- Electronic Conspicuity
+- Electronically Conspicuous
+- EoT
+- GUID
+- IoT
+- Kotlin Multiplatform
+- Machine Learning On Demand, MLOD
+- Machine Learning, ML
+- Meadow F7v2 Board
+- Minimal Viable Product, MVP
+- MLOD File
+- Nordic nRF52 Series Board
+- Object Detection
+- Repository ('repo')
+- Swift
+- Unity
+- Unity AR Module
+- Visual AR Space
+- Wonderwall
+- Xamarin
+
 ## So let's explain the Bluetooth-Compose logo!
 
 When the Bluetooth name and logo were coined, over two decades ago, it was important to choose a name and logo that acted as a metaphor about how the new technology worked. 'Bluetooth', of course, was an ancient Norse king who united the surrounding tribes to work as a coordinated whole. And the logo is actually the ancient runic 'b' and 't' superimposed into a singularity. We take the logo for granted now, because we understand how it represents the technology.

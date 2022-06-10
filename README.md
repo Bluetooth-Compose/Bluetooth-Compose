@@ -53,11 +53,13 @@ The following terms are used in this document:
 - Bluetooth-Compose-On-Demand, BCOD
 - Bluetooth-Compose, BC
 - bluetooth-compose.yml
+- Bluetooth-Up Display, BUD: a bluetooth's device Head-Up Display (HUD) in the Visual AR Space
 - Electronic Conspicuity, EC (contextual)
 - Electronically Conspicuous, EC (contextual)
 - Elspic, short for Electronic Conspicuity, Electronically Conspicuous (contextual)
 - EoT
 - GUID
+- Head-Up Display, HUD
 - IoT
 - Kotlin Multiplatform
 - Machine Learning On Demand, MLOD

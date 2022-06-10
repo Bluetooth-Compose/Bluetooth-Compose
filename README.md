@@ -134,6 +134,8 @@ Of course, you will be able to fill your boots and do as much as you want, but w
 
 If you are qualifed by some nuance to be on the Steering Committee, please either contact us using the above email address, or - if you already know someone who is involved - through a private channel that they'd recommend.
 
+Members of the steering committe will be 'ravens flying back and forth over the deep'.
+
 ### Our Initial Aim
 
 Our initial aim is to create an alpha ```bluetooth-compose.yml``` specification as a candidate for community discussion, to move onwards towards beta.

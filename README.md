@@ -42,7 +42,7 @@ This is the new era of ```Bluetooth-Compose-On-Demand (BCOD)``` where an app or 
 
 The following terms are used in this document.
 
-*The reason for so many acronyms is that they are useful abbreviations that can become part of the actual bluetooth-compose.yml syntax.*
+*The reason for so many acronyms is that they are useful abbreviations that can become part of the actual bluetooth-compose.yml file syntax.*
 
 - .NET Maui
 - AR App

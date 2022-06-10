@@ -87,8 +87,6 @@ We've gone back to the Norse god, Odin, who had a raven on each shoulder!
 
 *Bluetooth-Compose!*
 
-And here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and he is this project's first port of call when it comes to UI and UX.
-
 ## It's all about communication!
 
 So we've registered the following domains, and engaged a graphic artist to create the logo:
@@ -101,6 +99,14 @@ So we've registered the following domains, and engaged a graphic artist to creat
 ```
 
 We're just getting started but you can email us at super.admin@bluetooth-compose.com if you are at all enthusistic about this!
+
+### Steering Committee
+
+First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and given his demonstrated value-add to such a prominent global blue-chip, he is naturally this project's first port of call when it comes to UI and UX.
+
+We are also seeking similarly qualified people to be part of the Bluetooth-Compose Steering Committee, just one keeping an eye on what's going on feeding back the occasional comment is the minimum needed, perhaps occasionally attending a Teams meeting (or something of that ilk).
+
+Of course, you will be able to fill your boots and do as much as you want, but we will need qualified eyes at a minumum to help us track onwards on our leading edge.
 
 ### Our Initial Aim
 

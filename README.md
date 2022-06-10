@@ -83,10 +83,10 @@ In general, letters sub-parts in acronyms **might** mean one of the following:
 - Kotlin Multiplatform
 - Machine Learning On Demand, MLOD
 - Machine Learning, ML
-- Meadow F7v2 Board
+- Meadow F7v2 Board (Wilderness Labs)
 - Minimal Viable Product, MVP
 - MLOD File, MLODF
-- Nordic nRF52 Series Board
+- nRF52 Series Board (Nordic)
 - Object Detection, OD
 - Repository ('repo')
 - Swift

@@ -126,7 +126,7 @@ We're just getting started but you can email us at super.admin@bluetooth-compose
 
 ### Steering Committee
 
-First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and given his demonstrated value-add to such a prominent global blue-chip, he is naturally this project's first port of call when it comes to UI and UX.
+First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and given his demonstrated value-add to such a prominent global blue-chip, he is naturally this project's first port of call when it comes to UI and UX. The founder of this project worked with Chris at Nokia's Bristol office.
 
 We are also seeking similarly qualified people to be part of the Bluetooth-Compose Steering Committee, just one keeping an eye on what's going on and feeding back the occasional comment is the minimum needed, and perhaps occasionally attending a steering committee Teams meeting (or something of that ilk).
 

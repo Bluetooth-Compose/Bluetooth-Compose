@@ -45,7 +45,7 @@ The following terms are used in this document:
 - .NET Maui
 - AR App
 - Augmented Reality, AR
-- Augmented-Reality-Head-Up Display, ARHUD: a general Head-Up Display (HUD) in the Visual AR or VR Space
+- Augmented-Reality-Head-Up Display, ARHUD: a general Head-Up Display (HUD) in the Visual AR Space
 - BCAR ML File
 - Bluetooth Compose Augmented Reality, BCAR
 - Bluetooth Compose Augmented Reality App, BCAR App

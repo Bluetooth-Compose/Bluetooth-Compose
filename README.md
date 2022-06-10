@@ -46,7 +46,7 @@ The following terms are used in this document and the reason for so many acronym
 - AR App, ARA
 - AR Module, ARM
 - Augmented Reality, AR
-- Augmented-Reality-Head-Up Display, ARHUD: a general Head-Up Display (HUD) in the Visual AR Space
+- Augmented-Reality-Head-Up Display, ARHUD: a general Head-Up Display (HUD) in the Visual AR Space (VARS)
 - BCAR ML File, BCARMLF
 - Bluetooth Compose Augmented Reality, BCAR
 - Bluetooth Compose Augmented Reality App, BCAR App, BCARA

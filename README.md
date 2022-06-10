@@ -87,6 +87,8 @@ We've gone back to the Norse god, Odin, who had a raven on each shoulder!
 
 *Bluetooth-Compose!*
 
+And here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and he is this project's first port of call when it comes to UI and UX.
+
 ## It's all about communication!
 
 So we've registered the following domains, and engaged a graphic artist to create the logo:

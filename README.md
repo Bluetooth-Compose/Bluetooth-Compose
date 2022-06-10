@@ -132,7 +132,7 @@ We are also seeking similarly qualified people to be part of the Bluetooth-Compo
 
 Of course, you will be able to fill your boots and do as much as you want, but we will need qualified eyes that at a minumum assist us to track onwards with integrity so that we can constantly nudge forwards the leading edge.
 
-If you are qualifed by some nuance to be on the Steering Committee, please contact us on the above email address.
+If you are qualifed by some nuance to be on the Steering Committee, please either contact us using the above email address, or - if you already know someone who is involved - through a private channel that they'd recommend.
 
 ### Our Initial Aim
 

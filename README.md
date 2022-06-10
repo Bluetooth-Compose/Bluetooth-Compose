@@ -73,7 +73,7 @@ And a full-blown discussion must also include the adjacent but not unconnected t
 
 The new space we are in is imagining an environment that has plenty of bluetooth devices in it, each which are [electronically conspicuous](https://github.com/HarrisonOfTheNorth/Elspic-IoT-the-next-generation) to an ```Augmented Reality application```, and dependant upon user-engagement with the device in that AR-space, the dynamic auto-configuring of channels between the ```AR app``` and ```BCOD``` device so that they can be read, or written to, on demand.
 
-*Bluetooth-Compose-On-Demand.*
+*Bluetooth-Compose-On-Demand, BCOD.*
 
 #### But first-things-first
 

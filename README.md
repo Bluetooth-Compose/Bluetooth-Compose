@@ -94,7 +94,7 @@ And for simulating devices for Integration Testing, we are focussing on two devi
 
 ## Current Status
 
-To consume these peripherals (the ```C# Meadow F7v2 boards``` and ```C++ Nordic's nRF52 series``` devices)  we will simultaneously create an Augmented Reality app (initially, just in Kotlin Multiplatform, using Unity AR, but with the Unity library exportable to Xamarin, .Net Maui, and Swift).
+To consume these peripherals (the [C# Meadow F7v2 boards](http://developer.wildernesslabs.co/Meadow/Meadow_Basics/Hardware/F7v2/) and [C++ Nordic's nRF52 series](https://www.nordicsemi.com/Products/Bluetooth-Low-Energy/Development-hardware) devices)  we will simultaneously create an Augmented Reality app (initially, just in Kotlin Multiplatform, using Unity AR, but with the Unity library exportable to Xamarin, .Net Maui, and Swift).
 
 The Bluetooth AR app and it's associated architecture (that is, it's underlying Unity AR module/s that will be capable of being exported to any suitable platform), will also need to be capable of importing relevant ML (machine learning profiles) so that specific devices can be detected in the user's local AR space.
 

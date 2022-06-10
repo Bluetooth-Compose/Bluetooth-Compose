@@ -40,21 +40,21 @@ This is the new era of ```Bluetooth-Compose-On-Demand (BCOD)``` where an app or 
 
 ## Introduction to Terminology
 
-The following terms are used in this document and the reason for so many acronyms is that they will be useful abbreviations that can become part of the actual bluetooth-compose.yml file syntax.
+The following terms are used in this document and the reason for so many acronyms is that (in lower-case) they will be useful abbreviations that can become part of the actual bluetooth-compose.yml file syntax.
 
 - .NET Maui
-- AR App
+- AR App, ARA
 - AR Module, ARM
 - Augmented Reality, AR
 - Augmented-Reality-Head-Up Display, ARHUD: a general Head-Up Display (HUD) in the Visual AR Space
-- BCAR ML File
+- BCAR ML File, BCARMLF
 - Bluetooth Compose Augmented Reality, BCAR
-- Bluetooth Compose Augmented Reality App, BCAR App
-- Bluetooth-Compose AR Module, BCARM
-- Bluetooth-Compose Specification
+- Bluetooth Compose Augmented Reality App, BCAR App, BCARA
+- Bluetooth-Compose AR Module, BCAR Module, BCARM
+- Bluetooth-Compose Specification, BCS
 - Bluetooth-Compose-On-Demand, BCOD
 - Bluetooth-Compose, BC
-- bluetooth-compose.yml
+- bluetooth-compose.yml, BCY
 - Bluetooth-Head-Up Display, BHUD: a bluetooth's device Head-Up Display (HUD) in the Visual AR Space
 - Electronic Conspicuity, EC (contextual)
 - Electronically Conspicuous, EC (contextual)
@@ -68,16 +68,16 @@ The following terms are used in this document and the reason for so many acronym
 - Machine Learning, ML
 - Meadow F7v2 Board
 - Minimal Viable Product, MVP
-- MLOD File
+- MLOD File, MLODF
 - Nordic nRF52 Series Board
 - Object Detection, OD
 - Repository ('repo')
 - Swift
 - Unity
-- Unity AR Module, UARM
+- Unity AR Module, UAR Module, UARM
 - Virtual Reality, VR
 - Virtual-Reality-Head-Up Display, VRHUD: a general Head-Up Display (HUD) in the Visual VR Space
-- Visual AR Space
+- Visual AR Space, VARS
 - Wifi-Head-Up Display, BHUD: a wifi device Head-Up Display (HUD) in the Visual AR or VR Space
 - Wonderwall
 - Xamarin

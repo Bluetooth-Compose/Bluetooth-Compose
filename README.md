@@ -130,7 +130,7 @@ First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velve
 
 We are also seeking similarly qualified people to be part of the Bluetooth-Compose Steering Committee, just one keeping an eye on what's going on and feeding back the occasional comment is the minimum needed, and perhaps occasionally attending a steering committee Teams meeting (or something of that ilk).
 
-Of course, you will be able to fill your boots and do as much as you want, but we will need qualified eyes that at a minumum assist us to track onwards with integrity so that we can constantly nudge forwards the leading edge.
+Of course, you will be able to fill your boots and do as much as you want, but we will need qualified eyes that at a minumum will assist us to track onwards with integrity so that we can constantly and consitently, nudge the leading edge forwards.
 
 If you are qualifed by some nuance to be on the Steering Committee, please either contact us using the above email address, or - if you already know someone who is involved - through a private channel that they'd recommend.
 

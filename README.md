@@ -134,7 +134,7 @@ Of course, you will be able to fill your boots and do as much as you want, but w
 
 If you are qualifed by some nuance to be on the Steering Committee, please either contact us using the above email address, or - if you already know someone who is involved - through a private channel that they'd recommend.
 
-Members of the steering committee will be 'ravens flying back and forth over the deep', and as we know from history, 'ravens always get from one side of floods of adversity, to the other', doing so, so that 'the dove of peace can be released'.
+Members of the steering committee will be 'ravens flying back and forth over the waters of the deep', and as we know from history, 'ravens always get from one side of floods of adversity, to the other', doing so, so that 'the dove of peace can be released'.
 
 *The question that the team has before it, is 'What does the dove of peace look like'?*
 

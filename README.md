@@ -46,15 +46,16 @@ The following terms are used in this document:
 - AR App
 - Augmented Reality, AR
 - BCAR ML File
-- Bluetooth Compose Augmented Reality
+- Bluetooth Compose Augmented Reality, BCAR
 - Bluetooth Compose Augmented Reality App, BCAR App
-- Bluetooth-Compose AR Module
+- Bluetooth-Compose AR Module, BCARM
 - Bluetooth-Compose Specification
 - Bluetooth-Compose-On-Demand, BCOD
 - Bluetooth-Compose, BC
 - bluetooth-compose.yml
-- Electronic Conspicuity
-- Electronically Conspicuous
+- Electronic Conspicuity, EC (contextual)
+- Electronically Conspicuous, EC (contextual)
+- Elspic, short for Electronic Conspicuity, Electronically Conspicuous (contextual)
 - EoT
 - GUID
 - IoT
@@ -65,7 +66,7 @@ The following terms are used in this document:
 - Minimal Viable Product, MVP
 - MLOD File
 - Nordic nRF52 Series Board
-- Object Detection
+- Object Detection, OD
 - Repository ('repo')
 - Swift
 - Unity
@@ -74,7 +75,7 @@ The following terms are used in this document:
 - Wonderwall
 - Xamarin
 
-## So let's explain the Bluetooth-Compose logo!
+## So let's first explain the importance of the Bluetooth-Compose logo!
 
 When the Bluetooth name and logo were coined, over two decades ago, it was important to choose a name and logo that acted as a metaphor about how the new technology worked. 'Bluetooth', of course, was an ancient Norse king who united the surrounding tribes to work as a coordinated whole. And the logo is actually the ancient runic 'b' and 't' superimposed into a singularity. We take the logo for granted now, because we understand how it represents the technology.
 

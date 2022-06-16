@@ -38,7 +38,7 @@ This is the new era of ```Bluetooth-Compose-On-Demand (BCOD)``` where an app or 
 
 - ```Bluetooth-Compose-On-Demand (BCOD)``` effectively manifests as ```Bluetooth-Peripheral-On-Demand (BPOD)```, where the automation of the first effectively manifests as the second!
 
-*And if that's not powerful enough to consider, just imagine ```bluetooth-compose.yml``` files being passed around the bluetooth ether as ```bluetooth extended advertisements```! 
+And if that's not powerful enough to consider, just imagine ```bluetooth-compose.yml``` files being passed around the bluetooth ether as ```bluetooth extended advertisements```! 
 
 *Please excuse the poetic licence, but:*
 

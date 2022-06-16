@@ -137,7 +137,7 @@ Where Bluetooth-Compose comes into play as part of the original patent-pending a
 
 - The correlation of the 183 meters or less spacing of the smart-city LRBs is that the Bluetooth specification is capable of scaling up to meet smart-city demands without becoming over-saturated.
 
-Two concepts arose from this, 'bluetooth-periheral-on-demand', and bluetooth-compose-on-demand, with the latter being the intrinsic cause of the former to be capable of manifesting.
+Two concepts arose from this, 'bluetooth-peripheral-on-demand', and bluetooth-compose-on-demand, with the latter being the intrinsic cause of the former to be capable of manifesting.
 
 Yet despite being a private project - with a patent application pending - it was realised that inevitably, for the Electronically Conspicuous service to be consumed en-mass, the bluetooth-compose specification would have to develop as open-source, with the advantage being that whereas it could still be consumed by the original private context (and in doing so, maintaining it's own patent-pending commercial significances), that bluetooth-compose could also be consumed in a myriad of circumstances that were unconnected with the original technology.
 

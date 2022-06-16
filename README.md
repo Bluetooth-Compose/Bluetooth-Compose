@@ -143,6 +143,8 @@ Yet despite being a private project - with a patent application pending - it was
 
 - An example of how bluetooth-compose can be used as totally unconnected with the original smart-city concept, is that the bluetooth-compose specification could also be used to auto-configure a simulated bluetooth peripheral, as part of an isolated overnight intergration-test build in a CI/CD pipeline. 
 
+As such, the original concept of Electronic Conspicuity has expanded from it's broad smart-city concept to merely be the next evoltion of IoT as a universally ubiquitous "EoT" (i.e. electronically conspicuous IoT).
+
 ### Where we're going - as directed by an Open-Source Steering Committee
 
 First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and given his demonstrated value-add to such a prominent global blue-chip, he is naturally this project's first port of call when it comes to UI and UX. The founder of this project worked with Chris at Nokia's Bristol office.

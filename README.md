@@ -124,6 +124,23 @@ So we've registered the following domains, and engaged a graphic artist to creat
 
 We're just getting started but you can email us at super.admin@bluetooth-compose.com if you are at all enthusistic about this!
 
+### Where we began - 'Electronically Conspicuous'
+
+Although Bluetooth-Compose is an open-source project, it has it's roots in a private 'smart-city' project called [Electronically Conspicuous](https://www.youtube.com/watch?v=0K6vrWz2AuQ), whose prototype was rapidly run out using 'Wifi Aware', but which inevitably graduated to requiring Bluetooth 5 *extended-advertising* capability so that any ordinary smart-phone could engage with any 'little-red-box' (LRB) that sat upon any one of a number network-connected street-light posts that were 183 meters apart, or less. 
+
+Although not relevant here, it is interesting that in the private (patent-pending) project that the figure of 183 meters actually derives from the matter that in the United Kingdom, a 'built-up area' is defined in legislation as being (paraphrased) 'where street-light-posts are 183 meters apart or less'.
+
+- As it turns out, there is a commercial relationship between population density and the obligation of local authorities to provide street-lighting that meets a minimum distance-based specification
+- The knock-on effect of this - and which is the focus of the private venture - is that 'smart-cities' can be defined as places where smart-city radio-broadcast transmission-towers are placed 183 meters apart, or less, with the implication being that each street light post is a defacto 'transmission-tower' upon which a smart-city 'little-red-box' can be placed to accesible to any mobile or static device that has Bluetooth radio-transmission  capability.
+
+Where Bluetooth-Compose comes into play as part of the original patent-pending abstraction, is that a central hub that feeds all of the 'street-light-post LRBs' would need to feed each LRB with an auto-configuring text-stream - each tailored to each one's culturo-geographic context - and the result of that text-stream would be that each LRB device would be capable of broadcasting culturo-geographic (i.e. location-tailored) information that is based upon smart-phone accessible bluetooth-services that magically autoconfigured themselves according to the structure of the bluetooth-compose  text-stream; the advantage of this, of course, is that Bluetooth 5 would also allow each device to retrieve it's own bluetooth-compose file from each repective LRB  so that it could set up it's own symbiotic relationship with that LRB that was preconfigured by the original text-stream, to broadcast the presence of a specified peripherl.
+
+- The correlation of the 183 meters or less spacing of the smart-city LRBs is that the Bluetooth specification is capable of scaling up to meet smart-city demands without becoming over-saturated.
+
+Two concepts arose from this, 'bluetooth-periheral-on-demand', and bluetooth-compose-on-demand, with the latter being the intrinsic cause of the former to be capable of manifesting.
+
+Yet despite being a private project - with a patent application pending - it was realised that inevitably, for the Electronically Conspicuous service to be consumed en-mass, the bluetooth-compose specification would have to develop as open-source, with the advantage being that whereas it could still be consumed by the original private context (and in doing so, maintaining it's own patent-pending commercial significances), that bluetooth-compose could also be consumed in a myriad of circumstances that were unconnected with the original technology.
+
 ### Steering Committee
 
 First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and given his demonstrated value-add to such a prominent global blue-chip, he is naturally this project's first port of call when it comes to UI and UX. The founder of this project worked with Chris at Nokia's Bristol office.

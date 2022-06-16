@@ -145,7 +145,7 @@ Yet despite being a private project - with a patent application pending - it was
 
 First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and given his demonstrated value-add to such a prominent global blue-chip, he is naturally this project's first port of call when it comes to UI and UX. The founder of this project worked with Chris at Nokia's Bristol office.
 
-We are also seeking similarly qualified people to be part of the Bluetooth-Compose Steering Committee, just one keeping an eye on what's going on and feeding back the occasional comment is the minimum needed, and perhaps occasionally attending a steering committee Teams meeting (or something of that ilk).
+We are also seeking similarly qualified people to be part of the Bluetooth-Compose Steering Committee, the minimum job is to merely keep an eye on what's going on and feed back the occasional comment, and perhaps also attending the occasional steering committee Teams meeting (or something of that ilk).
 
 Of course, you will be able to fill your boots and do as much as you want, but we will need qualified eyes that at a minumum will assist us to track onwards with integrity so that we can constantly and consitently, nudge the leading edge forwards.
 

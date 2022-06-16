@@ -124,7 +124,7 @@ So we've registered the following domains, and engaged a graphic artist to creat
 
 We're just getting started but you can email us at super.admin@bluetooth-compose.com if you are at all enthusistic about this!
 
-### Where we began - 'Electronically Conspicuous'
+### Where we began - the concept of a smart city being 'Electronically Conspicuous'
 
 Although Bluetooth-Compose is an open-source project, it has it's roots in a private 'smart-city' project called [Electronically Conspicuous](https://www.youtube.com/watch?v=0K6vrWz2AuQ), whose prototype was rapidly run out using 'Wifi Aware', but which inevitably graduated to requiring Bluetooth 5 *extended-advertising* capability so that any ordinary smart-phone could engage with any 'little-red-box' (LRB) that sat upon any one of a number network-connected street-light posts that were 183 meters apart, or less. 
 

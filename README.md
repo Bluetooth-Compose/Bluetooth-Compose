@@ -38,7 +38,11 @@ This is the new era of ```Bluetooth-Compose-On-Demand (BCOD)``` where an app or 
 
 - ```Bluetooth-Compose-On-Demand (BCOD)``` effectively manifests as ```Bluetooth-Peripheral-On-Demand (BPOD)```, where the automation of the first effectively manifests as the second!
 
-*And if that's not powerful enough to consider, just imagine ```bluetooth-compose.yml``` files being passed around as ```bluetooth extended advertisements```! Bluetooth 'mists' of bluetooth-compose.yml files in the bluetooth advertisements atmosphere consolidating to become bluetooth droplets, bluetooth droplets consolidating to become bluetooth rain, bluetooth rain falling upon the bluetooth escarpment and turning from streamlets of bluetooth into brooks of bluetooth into rivers of bluetooth, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: dynamic customer satisfaction!*
+*And if that's not powerful enough to consider, just imagine ```bluetooth-compose.yml``` files being passed around the bluetooth ether as ```bluetooth extended advertisements```! 
+
+*Please excuse the poetic licence, but:*
+
+- Bluetooth 'mists' of bluetooth-compose.yml files in the bluetooth advertisements atmosphere consolidating to become bluetooth droplets, bluetooth droplets consolidating to become bluetooth rain, bluetooth rain falling upon the bluetooth escarpment and turning from streamlets of bluetooth into brooks of bluetooth into rivers of bluetooth, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: dynamic customer satisfaction!*
 
 ## Introduction to Terminology
 

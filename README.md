@@ -141,7 +141,7 @@ Two concepts arose from this, 'bluetooth-periheral-on-demand', and bluetooth-com
 
 Yet despite being a private project - with a patent application pending - it was realised that inevitably, for the Electronically Conspicuous service to be consumed en-mass, the bluetooth-compose specification would have to develop as open-source, with the advantage being that whereas it could still be consumed by the original private context (and in doing so, maintaining it's own patent-pending commercial significances), that bluetooth-compose could also be consumed in a myriad of circumstances that were unconnected with the original technology.
 
-### Steering Committee
+### Where we're going - as directed by an Open-Source Steering Committee
 
 First of all, here's a shout-out to Chris Davies at [Velvet Skies](https://velvetskies.com/), who designed the Bluetooth-Compose logo. Chris was the UI head at Nokia Entertainment Worldwide, back in Nokia's glory-days, and given his demonstrated value-add to such a prominent global blue-chip, he is naturally this project's first port of call when it comes to UI and UX. The founder of this project worked with Chris at Nokia's Bristol office.
 

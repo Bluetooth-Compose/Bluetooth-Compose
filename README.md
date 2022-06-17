@@ -83,7 +83,7 @@ In general, letters sub-parts in acronyms **might** mean one of the following:
 - Bluetooth-Compose, BC
 - bluetooth-compose.yml, BCY
 - Bluetooth-Head-Up Display, BHUD: a bluetooth's device Head-Up Display (HUD) in the Visual AR Space
-- Bluetooth-Peripheral-On-Ddemand, BPOD
+- Bluetooth-Peripheral-On-Demand, BPOD
 - Electronic Conspicuity, EC (contextual)
 - Electronically Conspicuous, EC (contextual)
 - Elspic, short for Electronic Conspicuity, Electronically Conspicuous (contextual)

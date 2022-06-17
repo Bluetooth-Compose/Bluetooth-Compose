@@ -138,7 +138,7 @@ We're just getting started but you can email us at super.admin@bluetooth-compose
 
 ### Where we began - the concept of a smart city being 'Electronically Conspicuous'
 
-Although Bluetooth-Compose is an open-source project, it has it's roots in a private 'smart-city' project called [Electronically Conspicuous](https://www.youtube.com/watch?v=0K6vrWz2AuQ), whose prototype was rapidly run out using 'Wifi Aware', but which inevitably graduated to requiring Bluetooth 5 *extended-advertising* capability so that any ordinary smart-phone could engage with any 'little-red-box' (LRB) that sat upon any one of a number network-connected street-light posts that were 183 meters apart, or less. 
+Although Bluetooth-Compose is an open-source project (but with trademarks presently retained), it has it's roots in a private 'smart-city' project called [Electronically Conspicuous](https://www.youtube.com/watch?v=0K6vrWz2AuQ), whose prototype was rapidly run out using 'Wifi Aware', but which inevitably graduated to requiring Bluetooth 5 *extended-advertising* capability so that any ordinary smart-phone could engage with any 'little-red-box' (LRB) that sat upon any one of a number network-connected street-light posts that were 183 meters apart, or less. 
 
 Although not relevant to the open-source specification, but important to understand because of the inherent synchronicity with the private smart city project (and any evolution of it), it is interesting that the figure of 183 meters actually derives from the matter that in the United Kingdom, a 'built-up area' is defined in legislation as being (paraphrased) 'where street-light-posts are 183 meters apart or less'.
 

@@ -212,6 +212,10 @@ And for simulating devices for Integration Testing, we are focussing on two devi
 -    C++ Nordic's nRF52 series at https://www.nordicsemi.com/Products/Bluetooth-Low-Energy/Development-hardware
 ```
 
+Please notice the synchronicity between Unity Engine AR and the Meadow F7v2 boards being written in C#, and the Unreal Engine AR and Nordic's nRF52 series being written in C++.
+
+*This is not to say that polyglots can't mix and match both C# and C++ in the same way that they already mix these with Kotlin, Swift, and Xamarin / .NET Maui, but is just to say that small team early adopters will be able to hit the ground running!*
+
 ## Current Status
 
 To consume these peripherals (the [C# Meadow F7v2 boards](http://developer.wildernesslabs.co/Meadow/Meadow_Basics/Hardware/F7v2/) and [C++ Nordic's nRF52 series](https://www.nordicsemi.com/Products/Bluetooth-Low-Energy/Development-hardware) devices)  we will simultaneously create an Augmented Reality app (initially, just in Kotlin Multiplatform, using Unity AR, but with the Unity library exportable to Xamarin, .Net Maui, and Swift).

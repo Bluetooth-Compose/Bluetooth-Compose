@@ -93,6 +93,7 @@ In general, letters sub-parts in acronyms **might** mean one of the following:
 - IoT
 - Kotlin Multiplatform
 - Machine Learning On Demand, MLOD
+- Machine Learning On Demand File, MLODF
 - Machine Learning, ML
 - Meadow F7v2 Board (Wilderness Labs)
 - Minimal Viable Product, MVP

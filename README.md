@@ -148,7 +148,7 @@ One thing that originally spiked our interest is that the above-mentioned figure
 
 *Why is such a smart-city radio-communications node referred to as 'a Little Red Box'?*
 
-- Quite simply, the colour red symbolises 'radiate and receive', which is a metaphor for the quintessential client-server relationship but expresses that the underlying transport layer is the medium or radio-communication.* 
+- Quite simply, the colour red symbolises 'radiate and receive', which is a metaphor for the quintessential client-server relationship but expresses that the underlying transport layer is the medium or radio-communication.
  
 **The expression 'Radiate-and-Receive' (RAR) = a 'Radio-Communications based Client-Server relationship'**
 

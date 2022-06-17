@@ -100,6 +100,7 @@ In general, letters sub-parts in acronyms **might** mean one of the following:
 - MLOD File, MLODF
 - nRF52 Series Board (Nordic)
 - Object Detection, OD
+- Radiate-and-Receive, RAR
 - Repository ('repo')
 - Swift
 - Unity
@@ -145,7 +146,11 @@ One thing that originally spiked our interest is that the above-mentioned figure
 - As it turns out, there is a commercial relationship between population density and the obligation of local authorities to provide street-lighting that meets a minimum distance-based specification - and that means that there is already the obligation of local authorities to provide street-light-posts as essentially being already available to be used as 'defacto-smart-city-transmission-towers' and which defacto smart-city-transmission-tower density is thus already budgetted to increase as population density increaeses.
 - The knock-on effect of this - and which is the focus of the private venture - is that 'smart-cities' can be defined as places where smart-city radio-broadcast transmission-towers are placed 183 meters apart, or less, with the implication being that each street light post is a defacto 'transmission-tower' upon which a smart-city 'little-red-box' can be placed to be accessible to any mobile or static device that has Bluetooth radio-transmission  capability.
 
-*Why is it called a Little Red Box? Quite simply, the colour red symbolises 'radiate and receive', which is a metaphor for the quintessential client-server relationship but expresses where the underlying transport layer is the medium or radio-communication.*
+*Why is such a smart-city radio-communications node referred to as 'a Little Red Box'?*
+
+- Quite simply, the colour red symbolises 'radiate and receive', which is a metaphor for the quintessential client-server relationship but expresses that the underlying transport layer is the medium or radio-communication.* 
+ 
+**The expression 'Radiate-and-Receive' (RAR) = a 'Radio-Communications based Client-Server relationship'**
 
 Where Bluetooth-Compose comes into play as part of the original patent-pending abstraction, is that a central hub that feeds all of the 'street-light-post LRBs' would need to feed each LRB with an auto-configuring text-stream - each tailored to each one's culturo-geographic context - and the result of that text-stream would be that each LRB device would be capable of broadcasting culturo-geographic (i.e. location-tailored) information that is based upon smart-phone accessible bluetooth-services that magically autoconfigured themselves according to the structure of the bluetooth-compose  text-stream; the advantage of this, of course, is that Bluetooth 5 would also allow each device to retrieve it's own bluetooth-compose file from each repective LRB  so that it could set up it's own symbiotic relationship with that LRB that was preconfigured by the original text-stream, to broadcast the presence of a specified peripherl.
 

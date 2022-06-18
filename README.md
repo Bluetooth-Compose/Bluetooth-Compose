@@ -238,6 +238,8 @@ See the [KMP app](https://github.com/Bluetooth-Compose/BCARKMPApp) and [Unity AR
 
 #### Milestones
 
+##### Phase 1 Milestones
+
 1. Kotlin Multiplatform Consumption of a Separate Unity AR Module
 1. The Creation of a Machine Learning Object-detectable 3d Printed Bluetooth Device Container
 1. The Inbuilt Capability of the Ar Module to Detect the 3d Printed Bluetooth Device Container

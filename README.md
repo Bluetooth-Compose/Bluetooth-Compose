@@ -238,7 +238,7 @@ See the [KMP app](https://github.com/Bluetooth-Compose/BCARKMPApp) and [Unity AR
 
 #### Milestones
 
-1. Kotlin Multiplatform Consumption of a Separate Unity Module
+1. Kotlin Multiplatform Consumption of a Separate Unity AR Module
 1. The Creation of a Machine Learning Object-detectable 3d Printed Bluetooth Device Container
 1. The Inbuilt Capability of the Ar Module to Detect the 3d Printed Bluetooth Device Container
 1. The Creation and Consumption of a Preliminary bluetooth-compose.yml File With Object Detection Capability
@@ -250,7 +250,7 @@ See the [KMP app](https://github.com/Bluetooth-Compose/BCARKMPApp) and [Unity AR
 
 #### Details
 
-1. KOTLIN MULTIPLATFORM CONSUMPTION OF A SEPARATE UNITY MODULE<br />The creation of a Unity AR 'hello-world' module in it's own repository that is consumed by a Multiplatform hello-world world application that is separate in it's own repository but which loads that Unity AR module, which from here are collectively called the Bluetooth-Compose AR App ('BCAR app'), and which is capable of deploying to iOS and Android devices, with the initial intention being to ultimately deploy to the Google Play Store, and Apple App Store. 
+1. KOTLIN MULTIPLATFORM CONSUMPTION OF A SEPARATE UNITY AR MODULE<br />The creation of a Unity AR 'hello-world' module in it's own repository that is consumed by a Multiplatform hello-world world application that is separate in it's own repository but which loads that Unity AR module, which from here are collectively called the Bluetooth-Compose AR App ('BCAR app'), and which is capable of deploying to iOS and Android devices, with the initial intention being to ultimately deploy to the Google Play Store, and Apple App Store. 
      1. The creation of the Multiplatform [application](https://github.com/Bluetooth-Compose/BCARKMPApp) (as consumes the above Unity module), in Kotlin Multiplatform, outputing Android and iOS applications
      2. The creation of the Multiplatform application (as consumes the above Unity module), in .NET Maui, outputing Android and iOS applications
      3. The versions that will ultimately be deployed to the Google Play Store, and Apple App Store, with be the Kotlin Multiplatform versions.

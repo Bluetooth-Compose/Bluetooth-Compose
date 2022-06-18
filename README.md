@@ -251,6 +251,7 @@ See the [KMP app](https://github.com/Bluetooth-Compose/BCARKMPApp) and [Unity AR
 1. The Creation of an Additional 3d Printed Bluetooth Device Container
 1. The Preliminary Interaction of the Bcar App With Two Bluetooth Devices
 1. The Capability to Read Bluetooth Service Guids in Ar Space
+1. The Capability to Read Bluetooth Service, Characteristic, and Descriptor GUIDS, in AR space
 1. Community Discussion Event
 1. The Creation of Phase 2 Milestones
 
@@ -272,8 +273,9 @@ See the [KMP app](https://github.com/Bluetooth-Compose/BCARKMPApp) and [Unity AR
 8. THE CREATION OF AN ADDITIONAL 3D PRINTED BLUETOOTH DEVICE CONTAINER<br />The creation of a second 3D Printed Bluetooth Device Container, with instructions on how to create further device ML files, allowing community developers to both create them and upload them to the common BCAR ML file repo. The instructions should identify where the associated 3D Printing files are located, if pertinent.
 9. THE PRELIMINARY INTERACTION OF THE BCAR APP WITH TWO BLUETOOTH DEVICES<br />The extension of the bluetooth-compose.yml specification to allow demonstration Meadowboard and/or nRF series bluetooth devices to be placed in respective 3D Printed Bluetooth Device Containers, which when identified in AR-space by the BCAR App, will cause the bluetooth device's advertised name to be displayed within the BCAR App's visual AR-space, adjacent the identified device.
 10. THE CAPABILITY TO READ BLUETOOTH SERVICE GUIDS IN AR SPACE<br />The extension of the bluetooth-compose.yml specification to allow a user tapping on such a Bluetooth Device that has been so identified in AR-space, to connect to the device and read it's service GUIDs and display them in a Console.
-11. COMMUNITY DISCUSSION EVENT<br />The creation of a community event to allow the bluetooth-compose specification, as developed so far, to be demonstrated, discussed in a retrospective context, and a wide-range of use cases gathered from the community to steer the project forward.
-12. THE CREATION OF PHASE 2 MILESTONES<br />The creation of new milestones, based upon feedback from the community event.
+10. THE CAPABILITY TO READ BLUETOOTH SERVICE, CHARACTERISTIC, & DESCRIPTOR GUIDS IN AR SPACE<br />The extension of the bluetooth-compose.yml specification to allow a user tapping on such a Bluetooth Device that has been so identified in AR-space, to connect to the device and read it's service GUIDs, Characteristic GUIDS, and Descriptor GUIDS, and display them in a Console.
+12. COMMUNITY DISCUSSION EVENT<br />The creation of a community event to allow the bluetooth-compose specification, as developed so far, to be demonstrated, discussed in a retrospective context, and a wide-range of use cases gathered from the community to steer the project forward.
+13. THE CREATION OF PHASE 2 MILESTONES<br />The creation of new milestones, based upon feedback from the community event.
 
 Naturally, once we get to this stage, users will be able to create AR ML files for any Bluetooth device on the market, enabling them to be intelligently object detected in the Bluetooth Compose AR Module, using such Machine Learning profiles as developers will create, and at this point we would hope that the project would begin to go viral as developers start to create AR ML files in anticipation of the Bluetooth-Compose specification being extended further to allow the devices to not just be identified in the local AR-space, but then read, and written to.
 

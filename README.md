@@ -42,7 +42,7 @@ And if that's not powerful enough to consider, just imagine ```bluetooth-compose
 
 *Please excuse the poetic licence, but:*
 
-- Bluetooth 'mists' of bluetooth-compose.yml files in the bluetooth advertisements atmosphere consolidating to become bluetooth droplets, bluetooth droplets consolidating to become bluetooth rain, bluetooth rain falling upon the bluetooth escarpment and turning from streamlets of bluetooth into brooks of bluetooth into rivers of bluetooth, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: 
+- Bluetooth 'mists' of bluetooth-compose.yml files existing in the bluetooth radio frequency space all around you, which we describe as existing in the electronically conspicuous bluetooth advertisement atmosphere where they collectively consolidate to become associated as bluetooth droplets of combined units of ble central-and-peripheral associates, with those bluetooth droplets precipitating as bluetooth rain that falls upon the bluetooth escarpment of devices that are composed by such bluetooth-compose file-associations to turn into streamlets of bluetooth data-flows, and for those streamlets of bluetooth dataflows combining into brooks of bluetooth data flows that converge into rivers of bluetooth data flows, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: 
 
 *IoT + Bluetooth-Compose = IoT 'Electronic Conspicuity' ... 'EoT' for short!*
 

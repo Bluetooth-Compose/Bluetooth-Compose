@@ -14,7 +14,7 @@ So as an introduction, you may have already seen IKEA's wonderful Augmented Real
 
 Well Bluetooth-Compose turns that concept on it's head by being useful when something DOES exist in your room. 
 
-- We call this real things in real space. This is how it's always been.
+- We call this real things in real space. This is how it's always been!
 
 Yet the difference here is that for real Bluetooth devices in real space, their reality can be augmented by Bluetooth-Compose so that your bluetooth-device's virtual instrumentation can be rendered with it ... it's as though Bluetooth-Compose attaches a virtual computer monitor to every real bluetooth device that you have in the real-world around you, ... and that virtual monitor is capable of displaying what the bluetooth-device is doing, in real time! *And giving you the capacity to interact with it!*
 

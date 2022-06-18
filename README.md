@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+*Bluetooth-Compose is all about the convergence of Bluetooth Devices with Aumented Reality. With or without the Augmented Reality, because just like Schrödinger's cat, you don't know what's alive until you have a look! And because what's good for the goose is good for the gander, then take a gander at this!*
+
 ### A Sweet Introduction
 
 Before we introduce Bluetooth-Compose, let's get a little excited by the convergence of Augmented Reality (AR) with Bluetooth Devices! 

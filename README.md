@@ -10,7 +10,7 @@ Before we introduce Bluetooth-Compose, let's get a little excited by the converg
 
 So as an introduction, you may have already seen IKEA's wonderful Augmented Reality app where you can choose a piece of furniture and just point your phone at that empty space in your room where you would like to see see it, ... say a chair or sofa. 
 
-- *Voila* - you see that sofa or chair augmented into the empty space in your room, and yet what is ironic about this is that IKEA's AR space is **only** useful *when an item <u>doesn't</u> exist* in your room!
+- *Voila* - you see that sofa or chair augmented into the empty space in your room, and yet what is ironic about this is that IKEA's AR space is **only** useful *when an item <u>DOESN'T</u> exist* in your room!
 
 Well Bluetooth-Compose turns that concept on it's head by being useful when something DOES exist in your room. 
 

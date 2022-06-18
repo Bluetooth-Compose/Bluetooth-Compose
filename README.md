@@ -231,8 +231,8 @@ The current status of the specifications can be determined by the status of the 
 ### MVP Milestones:
 
 1. **(Currently undertaking)** The creation of a Unity AR 'hello-world' module in it's own repository that is consumed by a Multiplatform hello-world world application that is separate in it's own repository but which loads that Unity AR module, which from here are collectively called the Bluetooth-Compose AR App ('BCAR app'), and which is capable of deploying to iOS and Android devices, with the initial intention being to ultimately deploy to the Google Play Store, and Apple App Store. 
-     1. The creation of the Multiplatform application as consumes the above Unity module, in Kotlin Multiplatofm, outputing Android and iOS applications
-     2. The creation of the Multiplatform application as consumes the above Unity module, in .NET Maui, outputing Android and iOS applications
+     1. The creation of the Multiplatform application (as consumes the above Unity module), in Kotlin Multiplatform, outputing Android and iOS applications
+     2. The creation of the Multiplatform application (as consumes the above Unity module), in .NET Maui, outputing Android and iOS applications
 3. The creation of a 3D Printed bluetooth device container that will ultimately be identified by the app's AR-space object detection mechanism via a user-loaded bluetooth-compose.yml file pointing to an external Machine Learning (ML) object detection file that will allow the BCAR App to identify it.
      1. For simplicity, the first series of Bluetooth Device Object Detection containers will consist of common container shapes however the bluetooth devices in those containers will be differentiated by unique printed cards that are attached to the container tops.
      1. In this way, the Object Detection Machine Learning will seek to identify the existence of such cards, and when such cards are identified in the AR space, a Bluetooth Head Up Display (BHUD) will be associated with such cards in much the same way that we see object detected cards that depict cartoon characters, suddenly come to life with 3D models dancing upon the detected cards. 

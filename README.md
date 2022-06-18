@@ -6,9 +6,9 @@ Before we introduce Bluetooth-Compose, let's get a little excited by the converg
 
 - You will immediately see what Bluetooth-Compose does, and why it is important ~ not just to you, but to reducing the carbon-footprint of every-day devices around you!
 
-So as an introduction, you may have already seen IKEA's wonderful Augmented Reality app where you can choose a piece of furniture and just point your phone at that empty space in your room where you would like to see see it. 
+So as an introduction, you may have already seen IKEA's wonderful Augmented Reality app where you can choose a piece of furniture and just point your phone at that empty space in your room where you would like to see see it, ... say a chair or sofa. 
 
-- *Voila* - you see a sofa augmented into the empty space in your room, and yet what is ironic about this is that IKEA's AR space is **only** useful *when an item <u>doesn't</u> exist* in your room!
+- *Voila* - you see that sofa or chair augmented into the empty space in your room, and yet what is ironic about this is that IKEA's AR space is **only** useful *when an item <u>doesn't</u> exist* in your room!
 
 Well Bluetooth-Compose turns that concept on it's head by being useful when something DOES exist in your room. 
 
@@ -17,8 +17,8 @@ Well Bluetooth-Compose turns that concept on it's head by being useful when some
 Yet the difference here is that for real Bluetooth devices in real space, their reality can be augmented by Bluetooth-Compose so that your bluetooth-device's virtual instrumentation can be rendered with it ... it's as though Bluetooth-Compose attaches a virtual computer monitor to every real bluetooth device that you have in the real-world around you, ... and that virtual monitor is capable of displaying what the bluetooth-device is doing, in real time! *And giving you the capacity to interact with it!*
 
 - If you want to save the world, this is a good way to start doing it because every device's carbon-footprint can be reduced by shifting it's instrumentation facilities into the Augmented Reality space!
-- If you want to save yourself by decluttering your real space from instrumentation, just shift the instrumentation from real space into augmented space.
-- If you want to value-add the space around you, let the device empower you where it is at, instead of where the clutter of your browser is at.
+- If you want to save yourself by decluttering your real space from instrumentation, just shift the instrumentation from real space into augmented space, so it only exists when you look at it.
+- If you want to value-add the space around you, let the device empower you where it is at, instead of where the clutter of your browser obscures it.
 
 ### So let's get down to basics.
 

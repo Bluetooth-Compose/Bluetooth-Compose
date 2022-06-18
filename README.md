@@ -206,9 +206,9 @@ This wondrous new space we are in is imagining an environment that has plenty of
 Naturally, the specification will be all about how to generate the yml files however as an interoperability proof we will wish to demonstrate their consumption in the following frameworks, hence will create demo bluetooth-compose engines for the following frameworks:
 
 ```
-- Xamarin / .Net Maui
-- Kotlin Multi Platform
-- Swift
+- Xamarin / .Net Maui (DNM)
+- Kotlin Multi Platform (KMP)
+- Swift (SW)
 ```
 
 And for simulating devices for Integration Testing, we are focussing on two device series:

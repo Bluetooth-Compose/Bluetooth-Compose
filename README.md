@@ -54,7 +54,7 @@ The following terms are used in this document and the reason for so many acronym
 
 ### Aide Memoire 
 
-In general, letters sub-parts in acronyms **might** mean one of the following:
+In general, letter sub-parts in acronyms **might** mean one of the following:
 
 - A, App
 - M, Module,

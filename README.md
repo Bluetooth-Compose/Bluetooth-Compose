@@ -16,7 +16,7 @@ Well Bluetooth-Compose turns that concept on it's head by being useful when some
 
 - We call this real things in real space. This is how it's always been!
 
-Yet the difference here is that for real Bluetooth devices in real space, their reality can be augmented by Bluetooth-Compose so that your bluetooth-device's virtual instrumentation can be rendered with it ... it's as though Bluetooth-Compose attaches a virtual computer monitor to every real bluetooth device that you have in the real-world around you, ... and that virtual monitor is capable of displaying what the bluetooth-device is doing, in real time! *And giving you the capacity to interact with it!*
+Yet the difference here is that for real Bluetooth devices that exist in real space, their reality can be augmented by Bluetooth-Compose so that your bluetooth-device's virtual instrumentation can be rendered with it ... it's as though Bluetooth-Compose attaches a virtual computer monitor to every real bluetooth device that you have in the real-world around you, ... and that virtual monitor is capable of displaying what the bluetooth-device is doing, in real time! *And giving you the capacity to interact with it!*
 
 - If you want to save the world, this is a good way to start doing it because every device's carbon-footprint can be reduced by shifting it's instrumentation facilities into the Augmented Reality space!
 - If you want to save yourself by decluttering your real space from instrumentation, just shift the instrumentation from real space into augmented space, so it only exists when you look at it.

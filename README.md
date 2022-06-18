@@ -232,8 +232,8 @@ The current status of the specifications can be determined by the status of the 
 
 ### MVP Milestones:
 
-1. **(Currently undertaking)** The creation of a Unity AR 'hello-world' module in it's own repository that is consumed by a Multiplatform hello-world world application that is separate in it's own repository but which loads that Unity AR module, which from here are collectively called the Bluetooth-Compose AR App ('BCAR app'), and which is capable of deploying to iOS and Android devices, with the initial intention being to ultimately deploy to the Google Play Store, and Apple App Store. 
-     1. The creation of the Multiplatform application (as consumes the above Unity module), in Kotlin Multiplatform, outputing Android and iOS applications
+1. **(Currently undertaking, see [here](https://github.com/Bluetooth-Compose/BCARKMPApp))** The creation of a Unity AR 'hello-world' module in it's own repository that is consumed by a Multiplatform hello-world world application that is separate in it's own repository but which loads that Unity AR module, which from here are collectively called the Bluetooth-Compose AR App ('BCAR app'), and which is capable of deploying to iOS and Android devices, with the initial intention being to ultimately deploy to the Google Play Store, and Apple App Store. 
+     1. The creation of the Multiplatform [application](https://github.com/Bluetooth-Compose/BCARKMPApp) (as consumes the above Unity module), in Kotlin Multiplatform, outputing Android and iOS applications
      2. The creation of the Multiplatform application (as consumes the above Unity module), in .NET Maui, outputing Android and iOS applications
      3. The versions that will ultimately be deployed to the Google Play Store, and Apple App Store, with be the Kotlin Multiplatform versions.
 3. The creation of a 3D Printed bluetooth device container that will ultimately be identified by the app's AR-space object detection mechanism via a user-loaded bluetooth-compose.yml file pointing to an external Machine Learning (ML) object detection file that will allow the BCAR App to identify it.

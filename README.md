@@ -128,7 +128,7 @@ We've gone back to the Norse god, Odin, who had a raven on each shoulder!
 
 ## It's all about communication!
 
-So we've registered the following domains, and engaged a graphic artist to create the logo:
+So we've registered the following domains (no websites yet!), and engaged a graphic artist to create the logo:
 
 ```
 - bluetooth-compose.com
@@ -136,6 +136,8 @@ So we've registered the following domains, and engaged a graphic artist to creat
 - bluetooth-compose.org
 - bluetooth-compose.co.uk
 ```
+
+(and ```bluetoothcompose.com``` just for package ids, if you use Android Studio, you'll know what this is all about!)
 
 We're just getting started but you can email us at super.admin@bluetooth-compose.com if you are at all enthusistic about this!
 

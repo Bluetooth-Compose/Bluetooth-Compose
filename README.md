@@ -78,6 +78,8 @@ And if that's not powerful enough to consider, just imagine ```bluetooth-compose
 
 In otherwords, we are on the verge of IoT 1.0 graduating to a new IoT 2.0 version of itself called EoT, an 'Electronic Conspicuity of Things'.
 
+- And we do recognise, of course, that Bluetooth is just one mechanism of how devices can be Electronically Conspicuous, so we will be mindful of writing the Bluetooth-Compose specification so that it can exist as part of a complete federation of similar electronically-conspicuous composition mechanisms.
+
 ## Introduction to Terminology
 
 The following terms are used in this document and the reason for so many acronyms is that (in lower-case) they will be useful abbreviations that can become part of the actual bluetooth-compose.yml file syntax.

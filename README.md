@@ -44,6 +44,7 @@ Yet the difference here is that for real Bluetooth devices that exist in real sp
 - If you want to save the world, this is a good way to start doing it because every device's carbon-footprint can be reduced by shifting it's instrumentation facilities into the Augmented Reality space!
 - If you want to save yourself by decluttering your real space from instrumentation, just shift the instrumentation from real space into augmented space, so it only exists when you look at it.
 - If you want to value-add the space around you, let the device empower you where it is at, instead of where the clutter of your browser would obscure it.
+- Bluetooth apps can use Bluetooth-Compose without using Augmented Reality, giving you the best of both worlds.
 
 ### So let's get down to basics.
 

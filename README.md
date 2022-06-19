@@ -97,7 +97,7 @@ In general, letter sub-parts in acronyms **might** mean one of the following:
 
 ### Terminology
 
-- .bcodpkg, a custom zip-file file extension designating a 'Bluetooth-Compose-On-Demand Package' for transporting bluetooth-compose.yml files and associated artefacts.
+- .bcodpkg, a custom zip-file file extension designating a 'Bluetooth-Compose-On-Demand Package' for transporting bluetooth-compose.yml files and associated artefacts. Double-clicking such a file would be one way of importing it into an app that utilises Bluetooth-Compose-On-Demand. (Other ways include retrieving the same assets directly from a Bluetooth Device, using that device's extended advertising capability.) 
 - .NET Maui
 - AR App, ARA
 - AR Module, ARM

@@ -116,6 +116,7 @@ In general, letter sub-parts in acronyms **might** mean one of the following:
 - Bluetooth-Compose Augmented Reality Kotlin Multiplatform App, BCARKMP App, BCARKMPA
 - Bluetooth-Compose Augmented Reality .NET Maui App, BCARDNM App, BCARDNMA
 - Bluetooth-Compose AR Module, BCAR Module, BCARM
+- Bluetooth-Compose Engine, BCE
 - Bluetooth-Compose Specification, BCS
 - Bluetooth-Compose-On-Demand, BCOD
 - Bluetooth-Compose, BC

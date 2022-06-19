@@ -130,6 +130,7 @@ In general, letter sub-parts in acronyms **might** mean one of the following:
 - Head-Up Display, HUD
 - IoT
 - Kotlin Multiplatform
+- Location Synchronicity, LS
 - Machine Learning On Demand, MLOD
 - Machine Learning On Demand File, MLODF
 - Machine Learning, ML

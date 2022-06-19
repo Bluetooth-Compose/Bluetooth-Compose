@@ -48,7 +48,7 @@ Yet the difference here is that for real Bluetooth devices that exist in real sp
 
 Here's the ground-breaking shift:
 
-- Existing Bluetooth Devices can be retrofitted with Bluetooth-Compose capability by importing an associated [device name].bcodpkg Bluetooth-Compose-On-Demand Package
+- Existing Bluetooth Devices can be retrofitted with Bluetooth-Compose capability by importing an associated [device name].bcodpkg Bluetooth-Compose-On-Demand Package, that is especially created for it.
 - New Bluetooth Devices can be built that would deliver the same artefacts to you, directly from the device itself, using Bluetooth Extended Advertising.
 
 ### So let's get down to basics.

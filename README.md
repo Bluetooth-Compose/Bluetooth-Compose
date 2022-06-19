@@ -47,7 +47,7 @@ logging:
         etcetera:
 ```
 
-We are a group of bluetooth-nutters who want to use yaml ('yet another markup language') to not just automate the reading of bluetooth devices, and not just to move the reading of them into the Augmented Reality space, but also to be able to simulate those devices to make integration testing of them easier.
+We are a group of bluetooth-nutters who want to use yaml ('yet another markup language') to not just automate the reading of bluetooth devices - not just moving the reading of them into the Augmented Reality space - but also to be able to simulate those devices to make integration testing of them easier.
 
 ### And for example, can you imagine:
 

@@ -31,7 +31,7 @@ Before we introduce Bluetooth-Compose, let's get a little excited by the converg
 
 - You will immediately see what Bluetooth-Compose does, and why it is important ~ not just to you, but to reducing the carbon-footprint of every-day devices around you!
 
-So as an introduction, you may have already seen IKEA's wonderful Augmented Reality app where you can choose a piece of furniture and just point your phone at that empty space in your room where you would like to see see it, ... say a chair or sofa. 
+So as an introduction, you may have already seen IKEA's wonderful Augmented Reality app where you can choose a piece of furniture and just point your phone at that empty space in your room where you would like to see it ... say a chair or a sofa. 
 
 - *Voila* - you see that sofa or chair augmented into the empty space in your room, and yet what is ironic about this is that IKEA's AR space is **only** useful *when an item <u>DOESN'T</u> exist* in your room!
 

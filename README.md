@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+Those familiar with docker-compose.yml files will very likely already assume that a ```bluetooth-compose.yml``` file does something similarly very special.
+
+#### bluetooth-compose.yml
+
+```
+version: '0.1'
+
+devices:
+     breaths_per_minute:
+        yardy-yardy: something
+        etcetera:
+
+     pulse_beats_per_minute:
+        yardy-yardy: something
+        etcetera:
+
+logging:
+        yardy-yardy: something
+        etcetera:
+```
+
 *Bluetooth-Compose is all about the convergence of Bluetooth Devices with Augmented Reality, with or without the Augmented Reality!*
 
 *Because just like Schrödinger's cat, you don't know what's alive until you have a look! And because what's good for the goose is good for the gander, then take a gander at this!*
@@ -25,27 +46,6 @@ Yet the difference here is that for real Bluetooth devices that exist in real sp
 - If you want to value-add the space around you, let the device empower you where it is at, instead of where the clutter of your browser would obscure it.
 
 ### So let's get down to basics.
-
-Those familiar with docker-compose.yml files will very likely already assume that a ```bluetooth-compose.yml``` file does something similarly very special.
-
-#### bluetooth-compose.yml
-
-```
-version: '0.1'
-
-devices:
-     breaths_per_minute:
-        yardy-yardy: something
-        etcetera:
-
-     pulse_beats_per_minute:
-        yardy-yardy: something
-        etcetera:
-
-logging:
-        yardy-yardy: something
-        etcetera:
-```
 
 We are a group of bluetooth-nutters who want to use yaml ('yet another markup language') to not just automate the reading of bluetooth devices - not just moving the reading of them into the Augmented Reality space - but also to be able to simulate those devices to make integration testing of them easier.
 

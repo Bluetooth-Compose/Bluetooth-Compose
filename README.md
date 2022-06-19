@@ -55,7 +55,7 @@ We are a group of bluetooth-nutters who want to use yaml ('yet another markup la
 
 ### Or what about:
 
-- feeding a bluetooth peripheral IoT device with a ```bluetooth-compose.yml``` file and have it auto-configure it's advertisements, services, characteristics, and descriptors, so that a bluetooth central mobile app, or another bluetooth device, can connect to it! Because bluetooth-compose in the AR space allows automation to invisibly occur!
+- feeding a bluetooth peripheral IoT device with a ```bluetooth-compose.yml``` file and have it auto-configure it's advertisements, services, characteristics, and descriptors, so that a bluetooth central mobile app, or another bluetooth device, can connect to it! Because bluetooth-compose in the AR space even allows automation to invisibly occur!
 
 *We can!*
 

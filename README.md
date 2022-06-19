@@ -46,6 +46,11 @@ Yet the difference here is that for real Bluetooth devices that exist in real sp
 - If you want to value-add the space around you, let the device empower you in the context of where it is at, instead of you having to journey away from the device to a browser, just to find a means of engaging with it (More on 'Location Synchronicty' later!).
 - Bluetooth apps can use Bluetooth-Compose without using Augmented Reality, giving you the best of both worlds.
 
+Here's the ground-breaking shift:
+
+- Existing Bluetooth Devices can be retrofitted with Bluetooth-Compose capability by importing an associated [device name].bcodpkg Bluetooth-Compose-On-Demand Package
+- New Bluetooth Devices can be built that would deliver the same artefacts to you, directly from the device itself, using Bluetooth Extended Advertising.
+
 ### So let's get down to basics.
 
 We are a group of bluetooth-nutters who want to use yaml ('yet another markup language') to not just automate the reading of bluetooth devices - not just moving the reading of them into the Augmented Reality space - but also to be able to simulate those devices to make integration testing of them easier.

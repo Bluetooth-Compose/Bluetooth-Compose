@@ -8,7 +8,7 @@ Those familiar with docker-compose.yml files will very likely already assume tha
 version: '0.1'
 
 devices:
-     breaths_per_minute:x
+     breaths_per_minute:
         yardy-yardy: something
         etcetera:
 

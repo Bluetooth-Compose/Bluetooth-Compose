@@ -51,7 +51,7 @@ We are a group of bluetooth-nutters who want to use yaml ('yet another markup la
 
 ### And for example, can you imagine:
 
-- feeding a mobile app with a ```bluetooth-compose.yml``` file and have it automatically connect to a bluetooth device - with or without user-permissions, as required - to also auto-generate the associated UI - and then to forward those readings to another app, or to the cloud?
+- feeding a mobile app with a ```bluetooth-compose.yml``` file and have it automatically connect to a bluetooth device - with or without user-permissions, as required - to also auto-generate the associated UI, either as viewed in AR space, or transferred from AR space to an app space - and then to forward those readings onwards to another app, or even directly to the cloud?
 
 ### Or what about:
 

@@ -27,7 +27,7 @@ logging:
 
 ### A Sweet Introduction to augmentation
 
-Before we introduce Bluetooth-Compose, let's get a little excited by the convergence of Augmented Reality (AR) with Bluetooth Devices (BD)! 
+Before we introduce Bluetooth-Compose, let's get a little excited by the convergence of Augmented Reality (AR) with Bluetooth Devices (BD) in general!
 
 - You will immediately see what Bluetooth-Compose does, why it is needed, and why it is important ~ not just to you, but to reducing the carbon-footprint of every-day devices around you!
 

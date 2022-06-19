@@ -29,7 +29,7 @@ logging:
 
 Before we introduce Bluetooth-Compose, let's get a little excited by the convergence of Augmented Reality (AR) with Bluetooth Devices (BD)! 
 
-- You will immediately see what Bluetooth-Compose does, and why it is important ~ not just to you, but to reducing the carbon-footprint of every-day devices around you!
+- You will immediately see what Bluetooth-Compose does, why it is needed, and why it is important ~ not just to you, but to reducing the carbon-footprint of every-day devices around you!
 
 So as an introduction, you may have already seen IKEA's wonderful Augmented Reality app where you can choose a piece of furniture and just point your phone at that empty space in your room where you would like to see it ... say a chair or a sofa. 
 

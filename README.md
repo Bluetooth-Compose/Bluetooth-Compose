@@ -68,11 +68,9 @@ This is the new era of ```Bluetooth-Compose-On-Demand (BCOD)``` where an app or 
 
 And if that's not powerful enough to consider, just imagine ```bluetooth-compose.yml``` files being passed around the bluetooth ether as ```bluetooth extended advertisements```! 
 
-*Please excuse the poetic licence, but:*
+*Please excuse the poetic licence, but: (you just have to read this metaphor once!)*
 
-(You just have to read this metaphor once!)
-
-- Bluetooth 'mists' of bluetooth-compose.yml files existing in the "bluetooth radio frequency space" all around you, which we describe as existing in the "electronically conspicuous bluetooth advertisement atmosphere" where they dynamically associate as bluetooth droplets "of combined units of ble central-and-peripheral bluetooth-compose associates", with those bluetooth droplets precipitating as bluetooth rain "that falls upon the bluetooth escarpment of devices" that are composed by such bluetooth-compose file-associations to turn into "streamlets of bluetooth data-flows", and for those streamlets of bluetooth dataflows combining into brooks of bluetooth data flows that converge into rivers of bluetooth data flows, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: 
+- Bluetooth 'mists' of bluetooth-compose.yml files existing in the "bluetooth radio frequency space" all around you, which we describe as existing in the "electronically conspicuous bluetooth advertisement atmosphere" where they dynamically associate as bluetooth droplets "of singular units of combined ble central-and-peripheral bluetooth-composed associates", with those bluetooth droplets precipitating as bluetooth rain "that falls upon the bluetooth escarpment of devices" that are composed by such bluetooth-compose.yml file-associations to empower "streamlets of bluetooth data-flows" combining into brooks of bluetooth data flows that converge into becoming rivers of bluetooth data flows, which all flood into and become the bluetooth ocean - with ravens flying across the waters of the deep until the dove-of-peace is released: 
 
 *IoT + Bluetooth-Compose = IoT 'Electronic Conspicuity' ... 'EoT' for short!*
 

@@ -25,7 +25,7 @@ logging:
 
 *Because just like Schrödinger's cat, you don't know what's alive in the AR space until you have a look! And because what's good for the goose is good for the gander, then take a gander at this!*
 
-### A Sweet Introduction about augmenting perspective
+### A Sweet Introduction to augmentation
 
 Before we introduce Bluetooth-Compose, let's get a little excited by the convergence of Augmented Reality (AR) with Bluetooth Devices (BD)! 
 

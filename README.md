@@ -203,7 +203,7 @@ Yet despite being a private project - with a patent application pending - it was
 - An example of how bluetooth-compose can be used as totally unconnected with the original smart-city concept, is that the bluetooth-compose specification could also be used to auto-configure a simulated bluetooth peripheral, as part of an isolated overnight intergration-test build in a CI/CD pipeline. 
 - Bluetooth devices need-not engage with LRBs to be electronically conspicuous.
 
-As such, the original concept of Electronic Conspicuity has expanded from it's broad smart-city concept to merely be the next evoltion of IoT as a universally ubiquitous "EoT" (i.e. electronically conspicuous IoT).
+As such, the original concept of Electronic Conspicuity has expanded from it's broad smart-city concept to merely be the next evolution of IoT as a universally ubiquitous "EoT" (i.e. electronically conspicuous IoT).
 
 LRBs will merely be a seamless opt-in.
 

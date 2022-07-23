@@ -39,7 +39,9 @@ Well Bluetooth-Compose turns that concept on it's head by being useful when some
 
 - We call this 'composing real things in real space'. This is how it's always been. We're not about to change it. If a device is equiped with Bluetooth it is already there. Bluetooth-Compose merely adds the 'encyclopedia of that device' to the AR space.
 
-Yet the difference here is that for real Bluetooth devices that exist in real space, their reality can be augmented by Bluetooth-Compose so that your bluetooth-device's virtual instrumentation can be rendered with it ... it's as though Bluetooth-Compose can attach a virtual computer monitor to every real bluetooth device that you have in the real-world around you, ... and that virtual monitor is capable of displaying what the bluetooth-device is doing, in real time! *And giving you the capacity to interact with it!*
+So the difference here is that for real Bluetooth devices that exist in real space, their reality can be augmented by Bluetooth-Compose so that your bluetooth-device's virtual instrumentation can be rendered with it ... it's as though Bluetooth-Compose can attach a virtual computer monitor to every real bluetooth device that you have in the real-world around you, ... and that virtual monitor is capable of displaying what the bluetooth-device is doing, in real time! *And giving you the capacity to interact with it!*
+
+Without Bluetooth-Compose, you can look at a device's "inner-Schrödinger's cat" and ask the question "Is the cat alive or dead?". Yet with Bluetooth-Compose, you can point your Bluetooth-Compose Augmented Reality app at the device, and you will know for certain that it's "inner-Schrödinger's cat" is most certainly alive!
 
 - If you want to save the world, this is a good way to start doing it because every device's carbon-footprint can be reduced by shifting it's instrumentation facilities into the Augmented Reality space!
 - If you want to save yourself by decluttering your real space from instrumentation, just shift the instrumentation from real space into augmented space, so it only exists when you look at it.

@@ -166,6 +166,12 @@ We've gone back to the Norse god, Odin, who had a raven on each shoulder!
 
 *Bluetooth-Compose!*
 
+If it makes it easy for you, the simplistic BC metaphor is:
+
+- The raven on the left is the Bluetooth-Compose.yml file for the Bluetooth peripheral device
+- The king in the middle is the Bluetooth king
+- The raven on the right is the Bluetooth-Compose.yml file for the Bluetooth central device
+
 ## It's all about communication!
 
 So we've registered the following domains (no websites yet!), and engaged a graphic artist to create the logo:

@@ -142,6 +142,7 @@ In general, letter sub-parts in acronyms **might** mean one of the following:
 - MLOD File, MLODF
 - nRF52 Series Board (Nordic)
 - Object Detection, OD
+- Personal Medical Event Hub, PMEH
 - Radiate-and-Receive, RAR
 - Repository ('repo')
 - Swift
